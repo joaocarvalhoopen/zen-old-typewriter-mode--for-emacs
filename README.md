@@ -1,4 +1,4 @@
-# zen-old-typewrter-mode for Doom Emacs
+# zen-old-typewriter-mode for Doom Emacs
 
 Make your Emacs sound like a zen old typewriter. This was a simple joke, that with Emacs you can customize it to be what ever you like in a simple way with zero experience! Emacs has a beautifull design, but this turn out to bacame something that I really like to use, it is really a calm and Zen thing to type all day with this mode turned on.
 I only use Emacs for 4 days know, and my Emacs LISP is by intuition and from what I remembered of Common LISP from the 90s in a IA subject from college, so this reimplementation that I made from selectric, should not be anything to brag about. But incredibly it works, and all the errors that I have found, I corrected them. 
